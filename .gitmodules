@@ -1,0 +1,3 @@
+[submodule "openstack_cpi"]
+	path = openstack_cpi
+	url = https://github.com/chnghia/openstack-bosh-cpi.git
